@@ -1,0 +1,10 @@
+def(x,y):
+   return x+y
+
+
+hban
+adnadsmn
+dmasnads'n
+bnzsnzds
+ nzs zs 
+ nzn
